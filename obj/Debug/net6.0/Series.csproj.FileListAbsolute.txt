@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Área de Trabalho\BootCamp_Avanade\AppSeries\Series\bin\Debug\net6.0\Series.exe
+C:\Users\david\OneDrive\Área de Trabalho\BootCamp_Avanade\AppSeries\Series\bin\Debug\net6.0\Series.deps.json
+C:\Users\david\OneDrive\Área de Trabalho\BootCamp_Avanade\AppSeries\Series\bin\Debug\net6.0\Series.runtimeconfig.json
+C:\Users\david\OneDrive\Área de Trabalho\BootCamp_Avanade\AppSeries\Series\bin\Debug\net6.0\Series.dll
+C:\Users\david\OneDrive\Área de Trabalho\BootCamp_Avanade\AppSeries\Series\bin\Debug\net6.0\ref\Series.dll
+C:\Users\david\OneDrive\Área de Trabalho\BootCamp_Avanade\AppSeries\Series\bin\Debug\net6.0\Series.pdb
+C:\Users\david\OneDrive\Área de Trabalho\BootCamp_Avanade\AppSeries\Series\obj\Debug\net6.0\Series.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\BootCamp_Avanade\AppSeries\Series\obj\Debug\net6.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Área de Trabalho\BootCamp_Avanade\AppSeries\Series\obj\Debug\net6.0\Series.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\BootCamp_Avanade\AppSeries\Series\obj\Debug\net6.0\Series.AssemblyInfo.cs
+C:\Users\david\OneDrive\Área de Trabalho\BootCamp_Avanade\AppSeries\Series\obj\Debug\net6.0\Series.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\BootCamp_Avanade\AppSeries\Series\obj\Debug\net6.0\Series.dll
+C:\Users\david\OneDrive\Área de Trabalho\BootCamp_Avanade\AppSeries\Series\obj\Debug\net6.0\ref\Series.dll
+C:\Users\david\OneDrive\Área de Trabalho\BootCamp_Avanade\AppSeries\Series\obj\Debug\net6.0\Series.pdb
+C:\Users\david\OneDrive\Área de Trabalho\BootCamp_Avanade\AppSeries\Series\obj\Debug\net6.0\Series.genruntimeconfig.cache
