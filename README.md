@@ -1,8 +1,8 @@
 # CadastroSeries
-#H5App simples (in memory) de cadastro de séries utilizando C# .NET 
+App simples (in memory) de cadastro de séries utilizando C# .NET 
 
-#H3Conceitos aplicados:
+#### Conceitos aplicados:
 
--Paradigma Orientado a Objetos (POO)
--Design Patterns (Repository)
--Coleções (Lista)
+- Paradigma Orientado a Objetos (POO)
+- Design Patterns (Repository)
+- Coleções (Lista)
